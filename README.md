@@ -184,7 +184,7 @@ Para deploy do modelo foram utilizados serviços da cloud AWS (Amazon Web Servic
 
 <br>
 
-Com o modelo implementado, foram gerados: o Relatório respondendo as perguntas de negócio, uma lista com os clientes classificados para o programa e uma versão estática do Dashboard construida com Power BI para visualizar o comportamento dos clusters.
+Com o modelo implementado, foram gerados: o [Relatório](reports/report.pdf) respondendo as perguntas de negócio, uma [lista](reports/clusters.csv) com os clientes classificados para o programa e uma versão estática do [Dashboard](img/dashboard_pwbi.png) construido com Power BI para visualizar o comportamento dos clusters.
 
 ## 6. Conclusão
 
@@ -198,7 +198,7 @@ Com a solução de dados entregue, a empresa possui agora um programa de fidelid
 
 ## 7. Próximos Passos
 
-- Categorizar os produtos para melhor coompreensão de comportamento dos clientes.
+- Categorizar os produtos para melhor coompreensão no comportamento dos clientes.
 - Criar uma regra para que nao seja possível efetuar compra sem o cadastro do cliente afim de zerar as compras sem identificação.
 - Criar novas features para melhorar o modelo.
 - Automatizar o processo de criação de clusters.
